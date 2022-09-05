@@ -1,0 +1,22 @@
+{
+  "name": "kwic_webservice_2022",
+  "version": "1.0.0",
+  "description": "광운대학교 정보융합학부 2022학년도 웹서비스설계및구현",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dr-kdpark/KWIC_Webservice_2022.git"
+  },
+  "author": "kdpark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dr-kdpark/KWIC_Webservice_2022/issues"
+  },
+  "homepage": "https://github.com/Dr-kdpark/KWIC_Webservice_2022#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
